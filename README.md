@@ -17,3 +17,7 @@ The circuit may also be built in a normal negative-ground configuration, using 2
 
 Copyright © 2009 Joe Davisson. All Rights Reserved.
 
+
+Preview
+-------
+![schematic preview](schematic-preview.png)
