@@ -4,6 +4,8 @@ Joe Davisson Obsidian Overdrive
 Original design Copyright © 2009 Joe Davisson.
 Schematic from [AnalogAlchemy](http://www.diystompboxes.com/analogalchemy/sch/obsidian.html)
 
+I'm just drawing this out to create a PCB for myself. Original work here is licensed under Creative Commons, use it if it's useful to you.
+
 Original content from Joe:
 
 ![orig schematic](http://www.diystompboxes.com/analogalchemy/sch/obsidian.gif)
@@ -21,3 +23,9 @@ Copyright © 2009 Joe Davisson. All Rights Reserved.
 Preview
 -------
 ![schematic preview](schematic-preview.png)
+
+Parts Libs
+----------
+Don't know how these work with regards to embedding in an Eagle schematic or board... so linking to them to avoid losing track.
+[MusicThingModular.lbr](https://raw.githubusercontent.com/TomWhitwell/MTM-Parts-Library/master/MusicThingModular.lbr)
+[audio.lbr](https://raw.githubusercontent.com/robertstarr/lbr_user/master/audio.lbr)
